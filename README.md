@@ -4,7 +4,7 @@
 
 ### Abstract
 
-TraitForge is a revolutionary NFT project that introduces an engaging game revolving around a central honeypot, offering strategic gameplay and strong value-accrual elements. It contrasts traditional NFT projects, which often lack compelling roadmaps or value mechanisms. By incorporating strategic gameplay, airdrops, and staking contracts, TraitForge aims to become a pivotal NFT game that attracts players of all backgrounds.
+TraitForge is a revolutionary NFT project that introduces an engaging game revolving around a central honeypot, offering strategic gameplay and strong value-accrual elements. It contrasts traditional NFT projects, which often lack compelling roadmaps or value mechanisms. By incorporating strategic gameplay, airdrops, and an elite community. TraitForge aims to become a pivotal NFT game that attracts players of all backgrounds.
 
 ### Introduction
 
@@ -12,9 +12,9 @@ NFT projects are often characterized by lackluster gameplay and speculative prof
 
 ### Entities
 
-TraitForge entities are NFTs with unique, programmatically generated art and traits. Each generation offers 10,000 entities with four main physical traits and an assigned role: Forger or Merger.
+TraitForge entities are NFTs with unique, programmatically generated art and traits. Each generation offers 10,000 entities with four main physical traits, 3 gameplay traits and an assigned role: Forger or Merger.
 
-- **Generation 1 Mint:** The first generation starts with 10,000 entities at prices beginning at 0.01 ETH and increasing incrementally up to 100 ETH.
+- **Generation 1 Mint:** The first generation starts with 10,000 entities at prices beginning at 0.005 ETH and increasing incrementally up to 50 ETH.
 
 ### Honeypot - "Nuke Fund"
 
@@ -43,7 +43,7 @@ Each entity's traits and parameters are derived from a 6-digit entropy value. Pa
    - A new entity inherits averaged traits from its parents.
 
 4. **Nuking:**
-   - Claim a share of the Nuke Fund by nuking an entity, removing it from the game.
+   - Claim a share of the Nuke Fund by nuking an entity, removing it from the game infinitely.
 
 ### Generations
 
