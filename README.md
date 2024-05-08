@@ -47,7 +47,8 @@ Each entity's traits and parameters are derived from a 6-digit entropy value. Pa
 
 ### Generations
 
-Entities evolve through generations, with each generation capped at 10,000 entities. Generation 1 directly mints Generation 2 entities via merging, up to Generation 10.
+Entities evolve through generations, with each generation capped at 10,000 entities. Generation 1 directly mints Generation 2 entities via forging, up to Generation 10.
+When the entire generation mints out, the minting will begin at the point of how many entities exist in the next gen. eg, Gen-1 mints out, 50 gen-2s already exist from forging, gen-2 minting will start at #51.
 
 ### Economics
 
