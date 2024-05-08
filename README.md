@@ -52,8 +52,8 @@ When the entire generation mints out, the minting will begin at the point of how
 
 ### Economics
 
-- **Nuke Fund Income:** 10% of Forge fees and sales, and 100% of mint fees go into the Nuke Fund.
-- **Dev & DAO Funds:** 10% of all Nuke Fund income streams to the Dev Fund.
+- **Nuke Fund Income:** 10% of Forge fees and sales, and 100% of Mint fees go into the Nuke Fund.
+- **Dev & DAO Funds:** 10% of all Nuke Fund income streams to the Dev/DAO Fund.
 - **Airdrop:** Players who mint or forge entities are recorded in the Airdrop Contract, securing 50% of the total $TRAIT supply.
 
 ### $TRAIT Token
