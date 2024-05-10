@@ -22,14 +22,12 @@ TRAIT is a token created for the TraitForge ecosystem, implementing a unique buy
 
 - At deployment, a specified amount of $TRAIT will minted and airdropped.
 
-### Burning
+### Staking Model
 
-- The `burn` function allows users to permanently remove a specified amount of tokens from circulation, reducing the total supply.
-
-### Buy/Burn Model
-
-- **Buy:** $TRAIT Tokens will be bought by the DAO Fund with a portion of game revenue.
-- **Burn:** The model incorporates a burning mechanism that burns the TRAIT Tokens bought by the DAO. This creates a gradual supply decrease, increasing $TRAIT value. The more game economy, the more the $TRAIT price increases.
+- $TRAIT accrues value through revenue distrubtion by staking and governance. Staking $TRAIT gives stakers the ability to earn passive income acoording to their staked amount. 
+- Staking revenue is derived from game-revenue. 10% of all fees that route to the honeypot, route to DAO-Fund. This means the more actions in the game, created higher revenue for stakers.
+- Staking also stabilizes $TRAIT in a positive way, as tokens are locked in staking, less tokens are likely to be sold on the open market. Aswell as the chances of the token being bought and staked are higher as the token and game increase in value.
+- The reward for staking $TRAIT will be $vTRAIT.
 
 ### Airdrop Distribution
 
