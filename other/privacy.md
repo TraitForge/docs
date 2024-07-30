@@ -8,7 +8,7 @@ At TraitForge, protecting user privacy is a top priority. We will never store an
 
 **Public Wallet Addresses:** To participate in TraitForge, players are required to provide a wallet address. This allows the game to associate your account with your on-chain activities, such as balances and transactions.
 
-**On-chain Transactions:** Transactions on Ethereum Blockchain are immutable and public, TraitForge does not intend on storing any transaction for personal use.
+**On-chain Transactions:** Transactions on EVM Blockchains are immutable and public, TraitForge does not intend on storing any transaction for personal use.
 
 ## Plausible Deniability
 **No Proof Stored:** TraitForge ensures that no evidence is created or retained that could confirm a public key belongs to a specific TraitForge account or user.
