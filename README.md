@@ -14,7 +14,7 @@ NFT projects are often characterized by lackluster gameplay and speculative prof
 
 TraitForge entities are NFTs with unique, programmatically generated art and traits. Each generation offers 10,000 entities with four main physical traits, 3 gameplay traits and an assigned role: Forger or Merger.
 
-- **Generation 1 Mint:** The first generation starts with 10,000 entities at prices beginning at 0.005 ETH and increasing incrementally up to 50 ETH.
+- **Generation 1 Mint:** The first generation starts with 10,000 entities at prices beginning at 0.005 ETH and increasing incrementally up to 0.25 ETH.
 
 ### Honeypot - "Nuke Fund"
 
